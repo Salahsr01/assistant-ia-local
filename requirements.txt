@@ -1,0 +1,3 @@
+ollama
+
+# Ajoutez ici les autres dépendances nécessaires au fur et à mesure du développement.
